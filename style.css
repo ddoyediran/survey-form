@@ -39,10 +39,6 @@ body {
 }
 
 .label-input-card {
-  /* display: block; */
-  /* border: 1px solid red; */
-  /* padding-bottom: 10px;
-  gap: 2; */
   display: flex;
   flex-direction: column;
   margin-top: 20px;
@@ -73,9 +69,6 @@ select {
 }
 
 .label-select {
-  /* margin-left: 60px;
-  padding-top: 20px; */
-  /* border: 1px solid; */
 }
 
 input[type="radio"],
